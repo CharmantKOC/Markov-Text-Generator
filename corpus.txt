@@ -1,0 +1,1 @@
+A l'issue de la simulation aléatoire, nous devons être capable de simuler des lois de variables aléatoires et de mettre en application le cours de probabilités.
